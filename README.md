@@ -159,7 +159,7 @@ The processed data can then be exported for dashboard and analysis purposes.
 
 ## Project Workflow
 
-![Flight Data Engineering Workflow](a_clean_infographic_diagram_on_a_white_background.png)
+![Flight Data Engineering Workflow](Flight%20Delay%20Data%20Engineering%20Workflow.png)
 
 ## Outcome
 
