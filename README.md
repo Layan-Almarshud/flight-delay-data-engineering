@@ -159,8 +159,10 @@ The processed data can then be exported for dashboard and analysis purposes.
 
 ## Project Workflow
 
-```text
-Kaggle Dataset ───────┐
-                     ├──> Extract ──> Transform ──> Load
-AviationStack API ────┘                 │
-                                       └──> Flight Delay Data
+![Flight Data Engineering Workflow](a_clean_infographic_diagram_on_a_white_background.png)
+
+## Outcome
+
+The project demonstrates how flight data from different sources can be collected, cleaned, integrated, and stored using both ETL and ELT data engineering approaches.
+
+The resulting datasets are prepared for further analysis and dashboard development.
